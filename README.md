@@ -1,0 +1,2 @@
+# static.cc
+leaked
